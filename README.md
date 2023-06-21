@@ -32,14 +32,14 @@ Reference image with designators
 | U3 | STC8H3K64S2 | [link](https://www.lcsc.com/product-detail/Microcontroller-Units-MCUs-MPUs-SOCs_span-style-background-color-ff0-STC-span-Micro-STC8H3K64S2-45I-TSSOP20_C2901851.html) | MCU
 | Q1 | NCE6050KA | [link](https://www.lcsc.com/product-detail/MOSFETs_Wuxi-span-style-background-color-ff0-NCE-span-Power-Semiconductor-NCE6050KA_C96013.html)
 | D1 | SS24 | [link](https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Shandong-Jingdao-Microelectronics-SS24_C115726.html)
-| L1 | ?
+| L1 | 3.3uH
 | C1 | ?
 | C2 | ?
-| C3 | ?
+| C3 | 1uF
 | C4 | ?
-| C5 | ?
-| C6 | ?
-| C7 | ?
+| C5 | 33pF
+| C6 | 100nF
+| C7 | 10uF
 | C8 | ?
 | C9 | ?
 | R1 | 10k
