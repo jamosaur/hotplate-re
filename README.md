@@ -27,7 +27,7 @@ Reference image with designators
 | SW2 | XKB Connectivity TS-1010-C-A | [link](https://www.lcsc.com/product-detail/Tactile-Switches_XKB-Connectivity-TS-1010-C-A_C692458.html)
 | J3 | 12pin usb-c | [link](https://www.lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-13_C223906.html) | Not a match, but kinda in spec?
 | U1 | CH224K | [link](https://www.lcsc.com/product-detail/USB-ICs_WCH-Jiangsu-Qin-Heng-CH224K_C970725.html) | PD Sink
-| U2 | MP2451 | [link](https://www.lcsc.com/product-detail/DC-DC-Converters_Monolithic-Power-Systems-MP2451DJ_C400566.html) | Stwp down switching regulator
+| U2 | MP2451 | [link](https://www.lcsc.com/product-detail/DC-DC-Converters_Monolithic-Power-Systems-MP2451DJ_C400566.html) | Step down switching regulator
 | U3 | STC8H3K64S2 | [link](https://www.lcsc.com/product-detail/Microcontroller-Units-MCUs-MPUs-SOCs_span-style-background-color-ff0-STC-span-Micro-STC8H3K64S2-45I-TSSOP20_C2901851.html) | MCU
 | Q1 | NCE6050KA | [link](https://www.lcsc.com/product-detail/MOSFETs_Wuxi-span-style-background-color-ff0-NCE-span-Power-Semiconductor-NCE6050KA_C96013.html)
 | D1 | SS24 | [link](https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Shandong-Jingdao-Microelectronics-SS24_C115726.html)
