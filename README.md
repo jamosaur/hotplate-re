@@ -69,5 +69,8 @@ Size: 49.9 x 44.5 mm (at widest)
 #### Heating Plate
 
 Size: 55.85 x 55.89 mm
+
 Resistance: 5.7 ohms @ 24.4c
+
 Actual usable size: 39.25 x 39.25 mm
+
