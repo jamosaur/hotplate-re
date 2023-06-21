@@ -33,10 +33,10 @@ Reference image with designators
 | Q1 | NCE6050KA | [link](https://www.lcsc.com/product-detail/MOSFETs_Wuxi-span-style-background-color-ff0-NCE-span-Power-Semiconductor-NCE6050KA_C96013.html)
 | D1 | SS24 | [link](https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_Shandong-Jingdao-Microelectronics-SS24_C115726.html)
 | L1 | 3.3uH
-| C1 | ?
+| C1 | 1uF
 | C2 | ?
 | C3 | 1uF
-| C4 | ?
+| C4 | 1uF
 | C5 | 33pF
 | C6 | 100nF
 | C7 | 10uF
