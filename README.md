@@ -19,7 +19,8 @@ From my initial research, it appears that there are 2 versions of this product.
 
 Reference image with designators
 
-![hotplate-re-designators](https://github.com/jamosaur/hotplate-re/assets/4105611/d4be6ec5-6970-44e1-a95b-4425a9a2995f)
+![hotplate-re-designators](https://github.com/jamosaur/hotplate-re/assets/4105611/afd66c2e-a305-4796-a51b-e32107714642)
+
 
 | Designator | Value/Model | LCSC | Notes |
 | --- | --- | --- | --- |
